@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T23:29:48.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.189" etag="Lsc6uO3LVQExZSCt9P6D" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T23:35:59.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.189" etag="x07R9e2WOgZI8IRjio8j" version="13.7.7" type="github">
   <diagram id="55hvcipZGKZZ7nLLrQq5" name="Page-1">
     <mxGraphModel dx="828" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="430" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwS639Bk0EFO_2gjoNM3-8" value="&quot;Ingresa el año de ingreso del trabajador&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zwS639Bk0EFO_2gjoNM3-8" value="&quot;Ingresa el año de ingreso del trabajador:&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="320" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zwS639Bk0EFO_2gjoNM3-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="430" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwS639Bk0EFO_2gjoNM3-14" value="&quot;Ingresa el año actualmente&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zwS639Bk0EFO_2gjoNM3-14" value="&quot;Ingresa el año actualmente:&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="520" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zwS639Bk0EFO_2gjoNM3-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
