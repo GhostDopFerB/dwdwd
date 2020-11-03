@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T19:34:47.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="LyTc7P1eBxZukuG4RNgw" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T00:35:43.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="jrwlEgItnGEl1Io4BU_a" version="13.8.8" type="github">
   <diagram id="y5UxwZJ2suRmW5uKMo80" name="Page-1">
-    <mxGraphModel dx="1780" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,10 +63,10 @@
         <mxCell id="zVq_SiU00iQnWoWPXgSU-2" value="Nf&amp;gt;=12" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zVq_SiU00iQnWoWPXgSU-4" value="TotalD=Total-(Total*(9.0/100))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zVq_SiU00iQnWoWPXgSU-4" value="Total=Total-(Total*(9.0/100))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zVq_SiU00iQnWoWPXgSU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVq_SiU00iQnWoWPXgSU-5">
+        <mxCell id="zVq_SiU00iQnWoWPXgSU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVq_SiU00iQnWoWPXgSU-5" target="zVq_SiU00iQnWoWPXgSU-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="940" as="targetPoint" />
           </mxGeometry>
@@ -87,13 +87,19 @@
           <mxGeometry x="290" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zVq_SiU00iQnWoWPXgSU-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="940" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="1060" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zVq_SiU00iQnWoWPXgSU-16" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zVq_SiU00iQnWoWPXgSU-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="890" as="sourcePoint" />
-            <mxPoint x="540" y="920" as="targetPoint" />
+            <mxPoint x="560" y="920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zVq_SiU00iQnWoWPXgSU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVq_SiU00iQnWoWPXgSU-24" target="zVq_SiU00iQnWoWPXgSU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVq_SiU00iQnWoWPXgSU-24" value="&quot;Aqui esta tu resultado:&quot;+Total&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="950" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
