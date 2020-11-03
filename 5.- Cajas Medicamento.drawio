@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T04:21:17.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="vuaOl6MIaGeM_E8hyx61" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T04:27:19.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="_FtXe3ar4OnFem4VgCzG" version="13.8.8" type="github">
   <diagram id="UjGg4rbpi19XOb0TRebn" name="Page-1">
     <mxGraphModel dx="890" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="qrpFLLjBW_we5XAOsalv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrpFLLjBW_we5XAOsalv-46" target="qrpFLLjBW_we5XAOsalv-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qrpFLLjBW_we5XAOsalv-46" value="&quot;Aqui esta los resultados&quot; + nCajasComp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qrpFLLjBW_we5XAOsalv-46" value="&quot;Aqui esta los resultados: &quot; + &quot;Usted va a comprar &quot;+nCajasComp+&quot; cajas&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="670" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qrpFLLjBW_we5XAOsalv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrpFLLjBW_we5XAOsalv-50" target="qrpFLLjBW_we5XAOsalv-46">
